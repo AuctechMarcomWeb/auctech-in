@@ -197,7 +197,7 @@
     var textRotate = function () {
         if ($(".wg-curve-text").length > 0) {
             if ($(".text-rotate").length > 0) {
-                const text = "Agency - Business - Consulting -";
+                const text = "Auctech MarCom Pvt. Ltd.";
                 const chars = text.split("");
                 const degree = 360 / chars.length;
 
