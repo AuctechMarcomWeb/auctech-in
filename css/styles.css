@@ -2176,7 +2176,7 @@ a.hover-text-main-golden:hover {
   display: -webkit-flex;
   display: flex;
   align-items: center;
-  justify-content: space-between;
+  justify-content: center;
   padding: 20px 0px;
 }
 .tf-footer.style-3 .footer-go-top {
